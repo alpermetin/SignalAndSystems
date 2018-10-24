@@ -1,2 +1,2 @@
 # signalandsystems
-Signal Uygulama-1
+Signal Uygulama
